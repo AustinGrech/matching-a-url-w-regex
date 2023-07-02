@@ -1,6 +1,6 @@
 # 17 Computer Science for JavaScript: Regex Tutorial
 
-## Regex URL
+## Regex GIST URL
 
 https://gist.github.com/AustinGrech/2c2fb19ad3cd287b288656f097a0c0d8
 
